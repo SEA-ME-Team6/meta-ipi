@@ -1,0 +1,8 @@
+[Unit]
+Description=automount Service
+
+[Service]
+ExecStart=/bin/sh -c "/etc/automount/automount.sh"
+
+[Install]
+WantedBy=multi-user.target
