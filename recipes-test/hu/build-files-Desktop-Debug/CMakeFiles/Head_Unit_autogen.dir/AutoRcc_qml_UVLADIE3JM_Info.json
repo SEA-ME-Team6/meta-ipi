@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/Head_Unit_autogen",
+	"CMAKE_BINARY_DIR" : "/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/files",
+	"CMAKE_SOURCE_DIR" : "/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/files",
+	"INCLUDE_DIR" : "/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/Head_Unit_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/files/src/qml/main.qml",
+		"/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/files/src/font/Enso-qWRq.ttf"
+	],
+	"LOCK_FILE" : "/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/CMakeFiles/Head_Unit_autogen.dir/AutoRcc_qml_UVLADIE3JM_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "UVLADIE3JM",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/CMakeFiles/Head_Unit_autogen.dir/AutoRcc_qml_UVLADIE3JM_Used.txt",
+	"SOURCE" : "/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/files/src/qml.qrc",
+	"VERBOSITY" : 0
+}
