@@ -17,15 +17,12 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core Quick)
 include_directories(
     src
     src-gen-cluster
-    ~/build-commonapi/capicxx-core-runtime/include
-    ~/build-commonapi/capicxx-someip-runtime/include
-    ~/build-commonapi/vsomeip/interfaces
+    ${CMAKE_INCLUDE_PATH}/CommonAPI-3.2
+    ${CMAKE_INCLUDE_PATH}
 )
 
 link_directories(
-    ~/build-commonapi/capicxx-core-runtime/build
-    ~/build-commonapi/capicxx-someip-runtime/build
-    ~/build-commonapi/vsomeip/build
+    ${CMAKE_LIBRARY_PATH}
 )
 
 add_executable(Head_Unit

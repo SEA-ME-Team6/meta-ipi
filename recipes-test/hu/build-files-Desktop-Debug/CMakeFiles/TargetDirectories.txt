@@ -1,8 +1,0 @@
-/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/CMakeFiles/Head_Unit.dir
-/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/CMakeFiles/install.dir
-/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/CMakeFiles/install/local.dir
-/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/CMakeFiles/install/strip.dir
-/home/seame-workstation09/SEAME/DES_Head-Unit/yocto/poky/meta-ipi/recipes-test/hu/build-files-Desktop-Debug/CMakeFiles/Head_Unit_autogen.dir
