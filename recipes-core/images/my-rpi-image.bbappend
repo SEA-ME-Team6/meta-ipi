@@ -16,8 +16,6 @@ IMG_BASE = " \
     vsomeip \
     vsomeip-dev \
     fonts \
-    automount \
-    supervisor \
     python3-supervisor \
 "
 
@@ -27,6 +25,8 @@ HU_PKGS = " \
     qt-hu \
     ic-test \
     hu-test \
+    head-unit \
+    instrument-cluster \
 "
 
 QT_BASE = " \
