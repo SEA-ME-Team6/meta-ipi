@@ -17,6 +17,7 @@ IMG_BASE = " \
     vsomeip-dev \
     fonts \
     python3-supervisor \
+    can-test \
 "
 
 HU_PKGS = " \
