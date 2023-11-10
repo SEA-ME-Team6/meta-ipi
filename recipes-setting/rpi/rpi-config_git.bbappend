@@ -4,8 +4,8 @@ KERNEL_MODULE_AUTOLOAD:rpi += "i2c-dev i2c-bcm2708"
 
 # Enable CAN
 ENABLE_SPI_BUS = "1"
-ENABLE_CAN = "1"
-CAN_OSCILLATOR = "16000000"
+#ENABLE_CAN = "1"
+#CAN_OSCILLATOR = "16000000"
 
 # Install dtbo for 7.9inch LCD
 RPI_EXTRA_CONFIG = " \n\
