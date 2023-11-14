@@ -1,0 +1,742 @@
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" failed (libss-speedsomeipstub.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Adding stub mapping: local:SpeedStatus:v1_0:commonapi.SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Adding stub mapping: local:SpeedStatus:v1_0:commonapi.SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Adding stub mapping: local:SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:commonapi.SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:commonapi.SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub2.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub2.so" failed (libss-speedsomeipstub2.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub2.so" failed (libss-speedsomeipstub2.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub2.so" failed (libss-speedsomeipstub2.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub2.so" failed (libss-speedsomeipstub2.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub2.so" failed (libss-speedsomeipstub2.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub2.so" failed (libss-speedsomeipstub2.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub2.so" failed (libss-speedsomeipstub2.so: cannot open shared object file: No such file or directory)
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libss-speedsomeipstub.so
+[CAPI][INFO] Loading configuration file './speed_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.SpeedStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-speedsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libss-rpmsomeipstub.so
+[CAPI][INFO] Loading configuration file './rpm_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.RPMStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-rpmsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libss-rpmsomeipstub.so
+[CAPI][INFO] Loading configuration file './rpm_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.RPMStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-rpmsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Adding stub mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libss-rpmsomeipstub.so
+[CAPI][INFO] Loading configuration file './rpm_sender.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus stub.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][INFO] Registering function for creating "commonapi.RPMStatus:v1_0" stub adapter.
+[CAPI][DEBUG] Loading interface library "libss-rpmsomeipstub.so" succeeded.
+[CAPI][INFO] Registering stub for "local:commonapi.RPMStatus:v1_0:RPMStatus"

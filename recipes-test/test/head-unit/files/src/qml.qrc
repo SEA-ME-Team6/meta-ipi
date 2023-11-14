@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/home.qml</file>
+        <file>qml/light.qml</file>
+        <file>qml/video.qml</file>
+        <file>qml/music.qml</file>
+        <file>images/benz.jpg</file>
+        <file>images/ground_shadow.png</file>
+        <file>images/head_light.png</file>
+        <file>images/music.jpeg</file>
+        <file>images/setting.jpeg</file>
+        <file>images/video.png</file>
+        <file>images/p.png</file>
+        <file>images/n.png</file>
+        <file>images/r.png</file>
+        <file>images/d.png</file>
+    </qresource>
+</RCC>

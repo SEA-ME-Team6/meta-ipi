@@ -1,0 +1,1593 @@
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][ERROR] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus" failed!
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][ERROR] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus" failed!
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Loading interface library "liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so" failed (liblocal__commonapi_SpeedStatus:v1_0__SpeedStatus.so: cannot open shared object file: No such file or directory)
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][ERROR] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus" failed!
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libhu-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libhu-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libhu-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer --> libhu-lightsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libhu-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './head-unit.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.LightStatus:v1_0:LightStatus_from_racer proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_gamepad <--> [1239.567d(1.0)]
+[CAPI][DEBUG] Added address mapping: local:commonapi.LightStatus:v1_0:LightStatus_from_racer <--> [1239.567e(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.LightStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libhu-lightsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.LightStatus:v1_0:LightStatus_from_racer"

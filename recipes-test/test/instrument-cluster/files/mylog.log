@@ -1,0 +1,693 @@
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus --> libic-speedsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.SpeedStatus:v1_0:SpeedStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.SpeedStatus:v1_0:SpeedStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.SpeedStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-speedsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.SpeedStatus:v1_0:SpeedStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libic-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libic-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libic-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libic-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libic-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libic-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libic-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libic-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libic-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus --> libic-batterysomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.GearStatus:v1_0:GearStatus --> libic-gearsomeipproxy.so
+[CAPI][DEBUG] Adding proxy mapping: local:commonapi.RPMStatus:v1_0:RPMStatus --> libic-rpmsomeipproxy.so
+[CAPI][INFO] Loading configuration file './instrument_cluster.ini'
+[CAPI][INFO] Using default binding 'someip'
+[CAPI][INFO] Using default shared library folder '/usr/local/lib/commonapi'
+[CAPI][DEBUG] Loading library for local:commonapi.RPMStatus:v1_0:RPMStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.RPMStatus:v1_0:RPMStatus <--> [1235.5679(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.RPMStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-rpmsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.RPMStatus:v1_0:RPMStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.BatteryStatus:v1_0:BatteryStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.BatteryStatus:v1_0:BatteryStatus <--> [1234.5678(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.BatteryStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-batterysomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.BatteryStatus:v1_0:BatteryStatus"
+[CAPI][DEBUG] Loading library for local:commonapi.GearStatus:v1_0:GearStatus proxy.
+[CAPI][DEBUG] Added address mapping: local:commonapi.GearStatus:v1_0:GearStatus <--> [1237.567c(1.0)]
+[CAPI][VERBOSE] Registering function for creating "commonapi.GearStatus:v1_0" proxy.
+[CAPI][DEBUG] Loading interface library "libic-gearsomeipproxy.so" succeeded.
+[CAPI][VERBOSE] Creating proxy for "local:commonapi.GearStatus:v1_0:GearStatus"
