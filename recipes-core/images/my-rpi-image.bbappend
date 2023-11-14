@@ -21,13 +21,7 @@ IMG_BASE = " \
 "
 
 HU_PKGS = " \
-    nano \
-    racertest \
-    qt-hu \
-    ic-test \
-    hu-test \
-    head-unit \
-    instrument-cluster \
+    headunit \
 "
 
 QT_BASE = " \
