@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>qml/main.qml</file>
-        <file>font/Enso-qWRq.ttf</file>
-    </qresource>
-</RCC>
