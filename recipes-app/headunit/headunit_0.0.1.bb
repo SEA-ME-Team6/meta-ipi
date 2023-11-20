@@ -38,7 +38,7 @@ do_install:append() {
     cp ${S}/battery_sender/battery_sender.ini ${D}${bindir}/DES3/battery_sender
     install -m 0755 ${S}/battery_sender/battery_sender.sh ${D}${bindir}/DES3/battery_sender
 
-    install -d ${D}{bindir}/DES3/build
+    install -d ${D}${bindir}/DES3/build
     cp ${B}/libbatterysomeipproxy.so ${D}${bindir}/DES3/build
     cp ${B}/libbatterysomeipstub.so ${D}${bindir}/DES3/build
     cp ${B}/libgearsomeipproxy.so ${D}${bindir}/DES3/build
@@ -49,4 +49,5 @@ do_install:append() {
     cp ${B}/libmovingsomeipstub.so ${D}${bindir}/DES3/build
     cp ${B}/librpmsomeipproxy.so ${D}${bindir}/DES3/build
     cp ${B}/librpmsomeipstub.so ${D}${bindir}/DES3/build
+
 }
