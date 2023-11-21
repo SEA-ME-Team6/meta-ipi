@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>gearIcon.jpg</file>
+        <file>light.jpg</file>
+        <file>stackViewPage.qml</file>
+        <file>grid.qml</file>
+        <file>CMakeLists.txt</file>
+        <file>CMakeLists.txt.user</file>
+        <file>gear.qml</file>
+        <file>main.cpp</file>
+        <file>qml.qrc</file>
+        <file>musicPlayer.qml</file>
+        <file>video.jpg</file>
+        <file>musicPlayer.jpg</file>
+        <file>b.jpg</file>
+        <file>f.jpg</file>
+        <file>p.jpg</file>
+        <file>ps.jpg</file>
+        <file>s.jpg</file>
+        <file>video.qml</file>
+        <file>back.jpg</file>
+        <file>dg.jpg</file>
+        <file>NG.jpg</file>
+        <file>rg.jpg</file>
+        <file>pg.jpg</file>
+        <file>light.qml</file>
+        <file>blue.png</file>
+        <file>lime.png</file>
+        <file>magenta.png</file>
+        <file>background.png</file>
+        <file>white.jpg</file>
+        <file>red.png</file>
+        <file>background1.jpg</file>
+        <file>backgr.jpg</file>
+        <file>black.jpg</file>
+        <file>back_icon.png</file>
+        <file>play_icon.png</file>
+        <file>pause_icon.png</file>
+        <file>skip-next_icon.png</file>
+        <file>skip-previous_icon.png</file>
+        <file>darkgray.png</file>
+    </qresource>
+</RCC>
