@@ -50,4 +50,5 @@ do_install:append() {
     cp ${B}/librpmsomeipproxy.so ${D}${bindir}/DES3/build
     cp ${B}/librpmsomeipstub.so ${D}${bindir}/DES3/build
 
+    install -m 0755 ${S}/can-setup.sh ${D}${bindir}/DES3
 }
