@@ -17,11 +17,20 @@ IMG_BASE = " \
     vsomeip-dev \
     fonts \
     python3-supervisor \
-    can-test \
+    supervisor \
 "
 
 HU_PKGS = " \
     headunit \
+    test \ 
+"
+
+GSTREAMER_PKGS = " \
+    gstreamer1.0-plugins-base \
+    gstreamer1.0-plugins-good \
+    gstreamer1.0-plugins-bad \
+    gstreamer1.0-libav \
+    pulseaudio \
 "
 
 QT_BASE = " \
@@ -78,6 +87,7 @@ PIRACER = " \
 
 IMAGE_INSTALL += " \
     ${HU_PKGS} \
+    ${GSTREAMER_PKGS} \
     ${IMG_BASE} \
     ${QT_BASE} \
     ${QT_PKGS} \
