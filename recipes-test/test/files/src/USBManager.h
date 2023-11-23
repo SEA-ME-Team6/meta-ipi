@@ -21,7 +21,6 @@ public:
 
     Q_INVOKABLE void startUSBScan();
 
-    bool usbStatus;
 
 
 signals:
@@ -29,7 +28,6 @@ signals:
     void usbRemoved();
     void fileListChanged();
 
-    // Add more signals as needed
 
 private:
     QStringList m_fileList;

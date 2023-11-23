@@ -42,6 +42,10 @@ Item {
                    // Update your UI or perform any other actions when the file list changes
                }
 
+        function onUsbRemoved() {
+            console.log("File list removed");
+            playlistModel.clear();
+        }
 
     }
 
@@ -79,7 +83,7 @@ Item {
     ListView {
         id: playlistView
 
-        width: arent.width / 3
+        width: parent.width / 3
         height: parent.height / 2
 
         anchors {

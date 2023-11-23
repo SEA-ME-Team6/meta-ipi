@@ -9,10 +9,10 @@
 USBManager::USBManager(QObject *parent) : QObject(parent)
 {
     startUSBScan();
-    usbWatcher.addPath("/media/"); // for yocto, change it to "/media/"
-    connect(&usbWatcher, &QFileSystemWatcher::directoryChanged, this, &USBManager::handleDirectoryChange);
+//    usbWatcher.addPath("/media/"); // for yocto, change it to "/media/"
+//    connect(&usbWatcher, &QFileSystemWatcher::directoryChanged, this, &USBManager::handleDirectoryChange);
 
-    connect(this, &USBManager::usbInserted, this, &USBManager::loadSongsFromUSB);
+    //connect(this, &USBManager::usbInserted, this, &USBManager::loadSongsFromUSB);
 
 }
 
@@ -48,16 +48,15 @@ void USBManager::startUSBScan()
             if (drive.isValid() && drive.isReady() && drive.device().startsWith("/dev/sd")) {
                 m_usbDrivePath = drive.rootPath();
                 // Emit the signal indicating that the file list has changed
-                //qDebug() << "USB scan completed, path: " << m_usbDrivePath;
-                emit usbInserted();
+                qDebug() << "USB scan completed, path: " << m_usbDrivePath;
+                //emit usbInserted();
+                loadSongsFromUSB();
                 return; // Stop scanning once a USB drive is found
             }
         }
-        usbStatus = true;
     }
     else {
         qDebug() << "No USB drive found";
-        usbStatus = false;
     }
 }
 
@@ -145,7 +144,7 @@ void USBManager::loadSongsFromUSB()
     }
 
     emit fileListChanged();
-    //qDebug() << "File list loaded from USB:" << m_fileList;
+    qDebug() << "File list loaded from USB:" << m_fileList;
 
 
     // You can perform further actions with the loaded file list
@@ -205,34 +204,36 @@ void USBManager::removeUsbDirectory()
     }
 }
 
-void USBManager::handleDirectoryChange(const QString &path)
-{
-    qDebug() << "handle Directory Changed!";
+//void USBManager::handleDirectoryChange(const QString &path)
+//{
+//    qDebug() << "handle Directory Changed!";
 
-    // change detected path
-    QDir usbRootDir(path);
-    qDebug() << "usbRootDir: " << usbRootDir;
+//    usbDirPath = "/media/usa";
+//    // change detected path
+//    QDir usbRootDir(path);
+//    qDebug() << "usbRootDir: " << usbRootDir;
 
-    if (usbRootDir.exists()) {
-        QStringList usbSubDirs = usbRootDir.entryList(QDir::Dirs | QDir::NoDotAndDotDot);
+//    // if there is still usb, change usbDirPath, if not, keep.
+//    if (usbRootDir.exists()) {
+//        QStringList usbSubDirs = usbRootDir.entryList(QDir::Dirs | QDir::NoDotAndDotDot);
 
-        for (const QString &subDir : usbSubDirs) {
-            usbDirPath = "/media/" + subDir;
-        }
-    }
+//        for (const QString &subDir : usbSubDirs) {
+//            usbDirPath = "/media/" + subDir;
+//        }
+//    }
 
-    //qDebug() << "usbDirPath: " << usbDirPath;
+//    //qDebug() << "usbDirPath: " << usbDirPath;
 
-    //path(ex. /media/usb/
-    QDir usbDir(usbDirPath);
+//    //path(ex. /media/usb
+//    QDir usbDir(usbDirPath);
 
 
-    if(usbDir.exists()) {
-        //emit usbInserted();
-
-        //loadMP3Files(usbDirPath);
-    } else {
-        //emit usbRemoved();
-        qDebug() << "USB REMOVED@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-    }
-}
+//    if(usbDir.exists()) {
+//        startUSBScan();
+//        qDebug() << "USB INSERTED @@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+//        //loadMP3Files(usbDirPath);
+//    } else {
+//        //emit usbRemoved();
+//        qDebug() << "USB REMOVED @@@@@@@@@@@@@@@@@@@@@@@@@@@@";
+//    }
+//}
