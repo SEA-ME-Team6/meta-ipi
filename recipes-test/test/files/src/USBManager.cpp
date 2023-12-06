@@ -9,11 +9,6 @@
 USBManager::USBManager(QObject *parent) : QObject(parent)
 {
     startUSBScan();
-//    usbWatcher.addPath("/media/"); // for yocto, change it to "/media/"
-//    connect(&usbWatcher, &QFileSystemWatcher::directoryChanged, this, &USBManager::handleDirectoryChange);
-
-    //connect(this, &USBManager::usbInserted, this, &USBManager::loadSongsFromUSB);
-
 }
 
 QStringList USBManager::fileList() const
@@ -71,9 +66,6 @@ void USBManager::mountUSB()
     process1.start(program1, arguments1);
     process1.waitForFinished();
 
-    //qDebug() << "process1: " << process1.exitCode();
-    //qDebug() << "에러:" << process1.errorString();
-    //qDebug() << "세부 정보:" << process1.readAllStandardError();
     // if making dircetro finished well, start mount
     if (process1.exitCode() == 0) {
         qDebug() << "Directory(/media/usb) is maked!";
@@ -203,37 +195,3 @@ void USBManager::removeUsbDirectory()
         qDebug() << "Directory does not exist";
     }
 }
-
-//void USBManager::handleDirectoryChange(const QString &path)
-//{
-//    qDebug() << "handle Directory Changed!";
-
-//    usbDirPath = "/media/usa";
-//    // change detected path
-//    QDir usbRootDir(path);
-//    qDebug() << "usbRootDir: " << usbRootDir;
-
-//    // if there is still usb, change usbDirPath, if not, keep.
-//    if (usbRootDir.exists()) {
-//        QStringList usbSubDirs = usbRootDir.entryList(QDir::Dirs | QDir::NoDotAndDotDot);
-
-//        for (const QString &subDir : usbSubDirs) {
-//            usbDirPath = "/media/" + subDir;
-//        }
-//    }
-
-//    //qDebug() << "usbDirPath: " << usbDirPath;
-
-//    //path(ex. /media/usb
-//    QDir usbDir(usbDirPath);
-
-
-//    if(usbDir.exists()) {
-//        startUSBScan();
-//        qDebug() << "USB INSERTED @@@@@@@@@@@@@@@@@@@@@@@@@@@@";
-//        //loadMP3Files(usbDirPath);
-//    } else {
-//        //emit usbRemoved();
-//        qDebug() << "USB REMOVED @@@@@@@@@@@@@@@@@@@@@@@@@@@@";
-//    }
-//}

@@ -39,7 +39,6 @@ Item {
                             playlistModel.append({ title: title, source: source });
                         }
 
-                   // Update your UI or perform any other actions when the file list changes
                }
 
         function onUsbRemoved() {
@@ -55,8 +54,16 @@ Item {
            y:70
 
            text: "Start USB Scan"
-           onClicked: usbManager.startUSBScan()
-       }
+
+           onClicked:
+           {
+               usbManager.startUSBScan();
+               console.log("button clicked");
+           }
+
+        }
+
+
 
 
 
@@ -72,7 +79,7 @@ Item {
         onClicked: mainLoader.source = "stackViewPage.qml"
         anchors {
             bottom: parent.bottom
-            right: parent.right
+            left: parent.left
             margins: 40
         }
     }
@@ -84,7 +91,7 @@ Item {
         id: playlistView
 
         width: parent.width / 3
-        height: parent.height / 2
+        height: parent.height * 0.8
 
         anchors {
             top: parent.top
@@ -97,13 +104,13 @@ Item {
 
         }
         delegate: Item {
-            width: 300
-            height: 40
+            width: 400
+            height: 50
             Rectangle {
                 width: parent.width
-                height: 40
+                height: 50
                 color: "black"
-                border.color: "white"
+                border.color: "#a1a1a3"
                 Text {
                     anchors.centerIn: parent
                     text: model.title
@@ -123,6 +130,22 @@ Item {
     }
 
 
+    Rectangle {
+        anchors {
+            bottom: parent.bottom
+            right: parent.right
+            //horizontalCenter: parent.horizontalCenter
+            rightMargin: 80
+            bottomMargin: 85
+        }
+        width: 400
+        height: 470
+        color: "#a1a1a3"
+        opacity: 0.4
+        border.color: "black"
+        border.width: 0.5
+        radius: 10
+    }
 
     MediaPlayer {
         id: mediaPlayer
@@ -130,30 +153,83 @@ Item {
     }
 
 
-//    Slider {
-//        id: s2
-//        width: 340
-//        from: 0
-//        to: 1
-//        value: mediaPlayer.volume
-//        onValueChanged: {
-//            mediaPlayer.volume = value
-//        }
-//    }
-
-    Column {
+    Slider {
         anchors {
             bottom: parent.bottom
-            horizontalCenter: parent.horizontalCenter
-            margins: 50
+            right: parent.right
+            //horizontalCenter: parent.horizontalCenter
+            bottomMargin: 30
+            rightMargin: 120
+        }
+        id: volume_slider
+        width: 340
+        from: 0
+        to: 1
+        value: mediaPlayer.volume
+        onValueChanged: {
+            mediaPlayer.volume = value
+        }
+    }
+
+
+
+    Column {
+
+        anchors {
+            bottom: parent.bottom
+            right: parent.right
+            margins: 100
         }
 
+        Image {
+
+            id: playingimg
+            scale: 0.65
+            source: "musicplaying.jpg"
+            visible: currentlyPlayingText.text !== ""
+            anchors {
+                horizontalCenter: parent.horizontalCenter
+            }
+        }
+
+        Text {
+            id: currentlyPlayingText
+            text: (playlistModel.get(playlistView.currentIndex) ? playlistModel.get(playlistView.currentIndex).title : "")
+            color: "white"
+            font.pixelSize: 16
+            horizontalAlignment: Text.AlignHCenter
+            verticalAlignment: Text.AlignVCenter
+            wrapMode: Text.WrapAtWordBoundaryOrAnywhere
+            anchors {
+                horizontalCenter: parent.horizontalCenter
+            }
+        }
+
+
+        Slider {
+            id: playerPosition
+            width: 340
+            from: 0
+            to: mediaPlayer.duration
+            value: mediaPlayer.position
+            onValueChanged: {
+                mediaPlayer.seek(value)
+            }
+            anchors {
+                horizontalCenter: parent.horizontalCenter
+            }
+        }
+
+
         Row {
-            spacing: 20
+            spacing: 57
+            anchors {
+                horizontalCenter: parent.horizontalCenter
+            }
 
             Button {
-                width: 100
-                height: 100
+                width: 80
+                height: 80
                 background: Image {
                     source: "skip-previous_icon.png"
                 }
@@ -168,8 +244,8 @@ Item {
                 }
             }
             Button {
-                width: 100
-                height: 100
+                width: 80
+                height: 80
                 background: Image{
                     source: mediaPlayer.playbackState === MediaPlayer.PlayingState ? "pause_icon.png" : "play_icon.png"
                 }
@@ -185,8 +261,8 @@ Item {
 
             Button {
                 id: next
-                width: 100
-                height: 100
+                width: 80
+                height: 80
                 background: Image {
                     source: "skip-next_icon"
                 }
@@ -202,18 +278,5 @@ Item {
                 }
             }
         }
-
-        Slider {
-            id: playerPosition
-            width: 340
-            from: 0
-            to: mediaPlayer.duration
-            value: mediaPlayer.position
-            onValueChanged: {
-                mediaPlayer.seek(value)
-            }
-        }
-
-
     }
 }

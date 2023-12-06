@@ -40,5 +40,7 @@
         <file>skip-next_icon.png</file>
         <file>skip-previous_icon.png</file>
         <file>darkgray.png</file>
+        <file>musicplaying.jpg</file>
+        <file>volume.png</file>
     </qresource>
 </RCC>
