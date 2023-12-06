@@ -20,7 +20,6 @@ IMG_BASE = " \
 "
 
 HU_PKGS = " \
-    headunit \
     test \ 
 "
 

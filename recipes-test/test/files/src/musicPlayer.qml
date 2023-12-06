@@ -20,11 +20,12 @@ Item {
     USBManager {
             id: usbManager
 
+            property bool usbStatus: true;
         }
     Connections {
         target: usbManager
 
-        function onFileListChanged () {
+        onFileListChanged: {
                    var files = usbManager.fileList;
                    console.log("File list changed. New list1:", files);
                    console.log("File list changed", usbManager.fileList.filePath);
@@ -41,27 +42,36 @@ Item {
 
                }
 
-        function onUsbRemoved() {
-            console.log("File list removed");
+        onUsbRemoved: {
+            usbManager.usbStatus = status
+            console.log("i: ", usbManager.usbStatus);
             playlistModel.clear();
         }
 
     }
 
 
-       Button {
-           x:300
-           y:70
-
-           text: "Start USB Scan"
-
-           onClicked:
-           {
-               usbManager.startUSBScan();
-               console.log("button clicked");
-           }
-
+    Button {
+        id: music_list_button
+        width: 80
+        height: 80
+        background: Image {
+            anchors.fill: parent
+            source: "queue-music.png"
         }
+
+        onClicked:
+        {
+            usbManager.startUSBScan();
+            console.log("button clicked");
+        }
+
+        anchors {
+            top: parent.top
+            left: parent.left
+            margins: 40
+        }
+    }
 
 
 
@@ -69,7 +79,7 @@ Item {
 
 
     Button {
-        id: backButton3
+        id: backButton
         width: 70
         height: 70
         background: Image {
@@ -85,10 +95,24 @@ Item {
     }
 
 
+    Text {
+        visible: !usbManager.usbStatus
+        id: usbStatusText
+        text: "USB device is not detected!"
+        color: "white"
+        font.pixelSize: 20
+        anchors {
+            top: parent.top
+            left: parent.left
+            margins: 150
+        }
+    }
 
 
     ListView {
         id: playlistView
+
+        visible: usbManager.usbStatus
 
         width: parent.width / 3
         height: parent.height * 0.8

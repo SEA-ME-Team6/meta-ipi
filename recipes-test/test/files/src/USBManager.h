@@ -25,11 +25,13 @@ public:
 
 signals:
     void usbInserted();
-    void usbRemoved();
+    void usbRemoved(bool status);
     void fileListChanged();
 
 
 private:
+    bool usb_status;
+
     QStringList m_fileList;
     QMediaPlayer m_mediaPlayer;
     QString m_usbDrivePath;

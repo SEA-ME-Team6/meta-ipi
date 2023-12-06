@@ -42,5 +42,6 @@
         <file>darkgray.png</file>
         <file>musicplaying.jpg</file>
         <file>volume.png</file>
+        <file>queue-music.png</file>
     </qresource>
 </RCC>

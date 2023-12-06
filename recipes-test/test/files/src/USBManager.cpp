@@ -8,7 +8,7 @@
 
 USBManager::USBManager(QObject *parent) : QObject(parent)
 {
-    startUSBScan();
+    //startUSBScan();
 }
 
 QStringList USBManager::fileList() const
@@ -37,7 +37,8 @@ void USBManager::startUSBScan()
     if(isUSBDriveMounted()) {
         // Get a list of available storage devices
         QList<QStorageInfo> drives = QStorageInfo::mountedVolumes();
-
+        usb_status = true;
+        emit usbRemoved(usb_status);
         // Check each drive for a USB drive
         for (const QStorageInfo &drive : drives) {
             if (drive.isValid() && drive.isReady() && drive.device().startsWith("/dev/sd")) {
@@ -52,6 +53,8 @@ void USBManager::startUSBScan()
     }
     else {
         qDebug() << "No USB drive found";
+        usb_status = false;
+        emit usbRemoved(usb_status);
     }
 }
 
