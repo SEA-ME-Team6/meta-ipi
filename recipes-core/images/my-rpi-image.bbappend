@@ -17,9 +17,12 @@ IMG_BASE = " \
     vsomeip-dev \
     fonts \
     python3-supervisor \
+    supervisor \
+    qtapplicationmanager \
 "
 
 HU_PKGS = " \
+    headunit \
     test \ 
 "
 

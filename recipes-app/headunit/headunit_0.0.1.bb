@@ -23,7 +23,10 @@ do_install:append() {
     cp ${S}/gamepad/gamepad.ini ${D}${bindir}/DES3/gamepad
     install -m 0755 ${S}/gamepad/gamepad.sh ${D}${bindir}/DES3/gamepad
 
+    install -d ${D}${bindir}/DES3/head_unit
     cp ${S}/head_unit/head-unit.ini ${D}${bindir}/DES3/head_unit
+    cp -r ${S}/head_unit/apps ${D}${bindir}/DES3/head_unit
+    cp -r ${S}/head_unit/system-ui ${D}${bindir}/DES3/head_unit
     install -m 0755 ${S}/head_unit/head_unit.sh ${D}${bindir}/DES3/head_unit
 
     cp ${S}/instrument_cluster/instrument_cluster.ini ${D}${bindir}/DES3/instrument_cluster
@@ -51,4 +54,12 @@ do_install:append() {
     cp ${B}/librpmsomeipstub.so ${D}${bindir}/DES3/build
 
     install -m 0755 ${S}/can-setup.sh ${D}${bindir}/DES3
+
+    install -d ${D}{libdir}/qml/User/HUSystem
 }
+
+
+FILES:${PN} += " \
+/usr/lib/qml/User/HUSystem/qmldir \
+/usr/lib/qml/User/HUSystem/libHUSystem.so \
+"
