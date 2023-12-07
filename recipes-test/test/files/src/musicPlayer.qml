@@ -15,7 +15,7 @@ Item {
     Image {
         id: backgroundImage1
         anchors.fill: parent
-        source: "black.jpg"
+        source: "image/black.jpg"
     }
     USBManager {
             id: usbManager
@@ -57,7 +57,7 @@ Item {
         height: 80
         background: Image {
             anchors.fill: parent
-            source: "queue-music.png"
+            source: "image/queue-music.png"
         }
 
         onClicked:
@@ -83,7 +83,7 @@ Item {
         width: 70
         height: 70
         background: Image {
-            source: "back_icon.png"
+            source: "image/back_icon.png"
         }
 
         onClicked: mainLoader.source = "stackViewPage.qml"
@@ -209,7 +209,7 @@ Item {
 
             id: playingimg
             scale: 0.65
-            source: "musicplaying.jpg"
+            source: "image/musicplaying.jpg"
             visible: currentlyPlayingText.text !== ""
             anchors {
                 horizontalCenter: parent.horizontalCenter
@@ -255,7 +255,7 @@ Item {
                 width: 80
                 height: 80
                 background: Image {
-                    source: "skip-previous_icon.png"
+                    source: "image/skip-previous_icon.png"
                 }
                 onClicked: {
                     var newIndex = playlistView.currentIndex - 1;
@@ -271,7 +271,7 @@ Item {
                 width: 80
                 height: 80
                 background: Image{
-                    source: mediaPlayer.playbackState === MediaPlayer.PlayingState ? "pause_icon.png" : "play_icon.png"
+                    source: mediaPlayer.playbackState === MediaPlayer.PlayingState ? "image/pause_icon.png" : "image/play_icon.png"
                 }
 
                 onClicked: {
@@ -288,7 +288,7 @@ Item {
                 width: 80
                 height: 80
                 background: Image {
-                    source: "skip-next_icon"
+                    source: "image/skip-next_icon.png"
                 }
 
                 onClicked: {

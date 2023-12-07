@@ -33,15 +33,15 @@
         <file>red.png</file>
         <file>background1.jpg</file>
         <file>backgr.jpg</file>
-        <file>black.jpg</file>
-        <file>back_icon.png</file>
-        <file>play_icon.png</file>
-        <file>pause_icon.png</file>
-        <file>skip-next_icon.png</file>
-        <file>skip-previous_icon.png</file>
         <file>darkgray.png</file>
-        <file>musicplaying.jpg</file>
         <file>volume.png</file>
-        <file>queue-music.png</file>
+        <file>image/black.jpg</file>
+        <file>image/skip-previous_icon.png</file>
+        <file>image/skip-next_icon.png</file>
+        <file>image/queue-music.png</file>
+        <file>image/play_icon.png</file>
+        <file>image/pause_icon.png</file>
+        <file>image/musicplaying.jpg</file>
+        <file>image/back_icon.png</file>
     </qresource>
 </RCC>
