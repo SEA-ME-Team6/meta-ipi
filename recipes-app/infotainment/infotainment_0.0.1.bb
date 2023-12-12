@@ -53,13 +53,15 @@ do_install:append() {
     cp ${B}/librpmsomeipproxy.so ${D}${bindir}/DES3/build
     cp ${B}/librpmsomeipstub.so ${D}${bindir}/DES3/build
 
-    install -m 0755 ${S}/can-setup.sh ${D}${bindir}/DES3
+    install -m 0755 ${S}/rpm_sender/can-setup.sh ${D}${bindir}/DES3
 
     install -d ${D}{libdir}/qml/User/HUSystem
+    install -d ${D}{libdir}/qml/User/Music
 }
-
 
 FILES:${PN} += " \
 /usr/lib/qml/User/HUSystem/qmldir \
 /usr/lib/qml/User/HUSystem/libHUSystem.so \
+/usr/lib/qml/User/Music/qmldir \
+/usr/lib/qml/User/Music/libMusic.so \
 "
