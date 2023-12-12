@@ -17,13 +17,10 @@ IMG_BASE = " \
     vsomeip-dev \
     fonts \
     python3-supervisor \
-    supervisor \
-    qtapplicationmanager \
 "
 
-HU_PKGS = " \
-    headunit \
-    test \ 
+APP_PKGS = " \
+    infotainment \
 "
 
 GSTREAMER_PKGS = " \
@@ -63,6 +60,7 @@ QT_PKGS = " \
     qtmultimedia \
     qtmultimedia-plugins \
     qtmultimedia-qmlplugins \
+    qtapplicationmanager \
 "
 
 PIRACER = " \
@@ -87,7 +85,7 @@ PIRACER = " \
 " 
 
 IMAGE_INSTALL += " \
-    ${HU_PKGS} \
+    ${APP_PKGS} \
     ${GSTREAMER_PKGS} \
     ${IMG_BASE} \
     ${QT_BASE} \
