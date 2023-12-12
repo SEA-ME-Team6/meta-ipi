@@ -3,7 +3,8 @@ SUMMARY = "DES03: Head Unit, Instrument Cluster for Piracer"
 LICENSE = "CLOSED"
 
 SRC_URI = "git://github.com/SEA-ME-Team6/DES_Head-Unit.git;protocol=https;branch=dev-communication"
-SRCREV = "${AUTOREV}"
+SRCREV = "ca4ef0e03eb50b2617433b67595d945984475365"
+# SRCREV = "${AUTOREV}"
 
 S = "${WORKDIR}/git"
 
