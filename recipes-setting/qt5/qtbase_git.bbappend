@@ -2,5 +2,5 @@ SUMMARY = "qt recipes"
 DESCRIPTION = "for qt"
 LICENSE = "CLOSED"
 
-PACKAGECONFIG:append = " eglfs fontconfig gles2 linuxfb tslib accessibility"
+PACKAGECONFIG:append = " eglfs fontconfig gles2 linuxfb tslib accessibility xcb"
 DEPENDS += "userland"
