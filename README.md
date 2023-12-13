@@ -96,3 +96,19 @@ sync
 
 # Architecture
 ![yocto_layer_architecture](https://github.com/SEA-ME-Team6/meta-ipi/assets/106136905/ceda9706-da56-4a2f-afbc-e59ed040560e)
+
+
+# **Descriptions of Recipe Directories**
+
+- recipes-core
+    - recipe for our custom image(my-rpi-image)
+- recipes-kernel & recipes-connectivity
+    - recipes for changing linux kernel version
+- recipes-setting
+    - recipes for environment setting(rpi-config, wifi, qt5, etc.)
+- recipes-ipc
+    - recipes for IPC(SOME/IP)
+- recipes-piracer
+    - recipes for piRacer-py
+- recipes-app:
+    - recipe for Infortainment we’ve made.
