@@ -4,7 +4,7 @@ In-Piracer-Infotainment Layer for OpenEmbedded/Yocto
 
 Through this layer, by following Quick Start below, you can obtain infotainment for Piracer!
 
-Detailed information regarding hardware setup and applications can be found here[링크]
+Detailed information regarding hardware setup and applications can be found [here](https://github.com/SEA-ME-Team6/DES_Head-Unit/tree/dev-communication)
 
 # Dependencies
 
@@ -29,17 +29,17 @@ This layer depends on:
 
 # **Descriptions of Recipe Directories**
 
-- recipes-core
+- **recipes-core**
     - recipe for our custom image(my-rpi-image)
-- recipes-kernel & recipes-connectivity
+- **recipes-kernel & recipes-connectivity**
     - recipes for changing linux kernel version
-- recipes-setting
+- **recipes-setting**
     - recipes for environment setting(rpi-config, wifi, qt5, etc.)
-- recipes-ipc
+- **recipes-ipc**
     - recipes for IPC(SOME/IP)
-- recipes-piracer
+- **recipes-piracer**
     - recipes for piRacer-py
-- recipes-app:
+- **recipes-app**
     - recipe for Infortainment we’ve made.
 
 # Quick Start
