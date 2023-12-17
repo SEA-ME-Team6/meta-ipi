@@ -4,7 +4,7 @@ In-Piracer-Infotainment Layer for OpenEmbedded/Yocto
 
 Through this layer, by following Quick Start below, you can obtain infotainment for Piracer!
 
-Detailed information regarding hardware setup and applications can be found [here](https://github.com/SEA-ME-Team6/DES_Head-Unit/tree/dev-communication)
+Detailed information regarding hardware setup and applications can be found [here](https://github.com/SEA-ME-Team6/app-ipi)
 
 # Dependencies
 
