@@ -1,0 +1,21 @@
+--- a/piracer/vehicles.py	2023-10-13 18:16:24.135649571 +0200
++++ b/piracer/vehicles.py	2023-10-16 13:35:36.104272603 +0200
+@@ -140,14 +140,14 @@
+         :param float value: Throttle in percent (forward: 0.0 to +1.0, backward: 0.0 to -1.0, brake: 0.0)
+         """
+         if value > 0:
+-            self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_LEFT_MOTOR_IN1].duty_cycle = self.PWM_MAX_RAW_VALUE
+-            self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_LEFT_MOTOR_IN2].duty_cycle = 0
++            self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_LEFT_MOTOR_IN1].duty_cycle = 0
++            self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_LEFT_MOTOR_IN2].duty_cycle = self.PWM_MAX_RAW_VALUE
+ 
+             self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_RIGHT_MOTOR_IN1].duty_cycle = 0
+             self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_RIGHT_MOTOR_IN2].duty_cycle = self.PWM_MAX_RAW_VALUE
+         else:
+-            self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_LEFT_MOTOR_IN1].duty_cycle = 0
+-            self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_LEFT_MOTOR_IN2].duty_cycle = self.PWM_MAX_RAW_VALUE
++            self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_LEFT_MOTOR_IN1].duty_cycle = self.PWM_MAX_RAW_VALUE
++            self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_LEFT_MOTOR_IN2].duty_cycle = 0
+ 
+             self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_RIGHT_MOTOR_IN1].duty_cycle = self.PWM_MAX_RAW_VALUE
+             self.throttle_pwm_controller.channels[self.PWM_THROTTLE_CHANNEL_RIGHT_MOTOR_IN2].duty_cycle = 0

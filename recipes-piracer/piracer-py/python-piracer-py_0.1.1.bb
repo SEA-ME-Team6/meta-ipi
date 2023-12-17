@@ -8,6 +8,8 @@ LIC_FILES_CHKSUM = "file://LICENSE;md5=6decff0ca0b506b9b7a5f54ac3d286f8"
 SRC_URI = " \
 	git://github.com/twyleg/piracer_py.git;protocol=https;nobranch=1 \
 	file://activate-buttons.patch \
+	file://motor_direction_modify.patch \
+	file://led_ignore.patch \
 "
 SRCREV = "7314ec1874388dc4ebc863aa429f82222b534ac1"
 

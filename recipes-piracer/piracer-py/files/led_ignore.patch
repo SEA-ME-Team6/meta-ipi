@@ -1,0 +1,11 @@
+--- a/piracer/vehicles.py	2023-10-09 13:57:07.453615000 +0200
++++ b/piracer/vehicles.py	2023-10-09 13:58:06.234863829 +0200
+@@ -33,7 +33,7 @@
+ 
+     def __init__(self) -> None:
+         self.i2c_bus = busio.I2C(SCL, SDA)
+-        self.display = SSD1306_I2C(128, 32, self.i2c_bus, addr=0x3c)
++        #self.display = SSD1306_I2C(128, 32, self.i2c_bus, addr=0x3c)
+ 
+     def _warmup(self) -> None:
+         self.set_steering_percent(0.0)
